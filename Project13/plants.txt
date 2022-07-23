@@ -1,0 +1,55 @@
+banana
+a long curved fruit that grows in clusters and has the yellow color.
+strawberry
+a sweet soft red fruit with a seed-studded surface.
+orange
+a round juicy citrus fruit with a tough bright reddish-yellow rind.
+dates
+a sweet, dark brown, oval fruit containing a hard stone, often eaten dried.
+pomegranate
+an orange-sized fruit with a tough reddish outer skin and sweet red gelatinous flesh containing many seeds.
+grapes
+a berry, typically green (classified as white), purple, red, or black, growing in clusters on a grapevine, eaten as fruit, and used in making wine.
+lemon
+a yellow, oval citrus fruit with thick skin and fragrant, acidic juice.
+tomato
+a glossy red, or occasionally yellow, pulpy edible fruit that is typically eaten as a vegetable or in salad.
+onion
+an edible bulb with a pungent taste and smell, composed of several concentric layers, used in cooking.
+aubergine
+a dark purple color like that of eggplant.
+peach
+a round stone fruit with juicy yellow flesh and downy pinkish-yellow skin.
+watermelon
+the large melonlike fruit of a plant of the gourd family, with smooth green skin, red pulp, and watery juice.
+carrots
+a tapering orange-colored root eaten as a vegetable.
+cucumber
+a long, green-skinned fruit with watery flesh, usually eaten raw in salads or pickled.
+pepper
+a pungent, hot-tasting powder prepared from dried and ground peppercorns, commonly used as a spice or condiment to flavor food.
+mango
+a fleshy yellowish-red tropical fruit that is eaten ripe or used green for pickles or chutneys.
+pear
+a yellowish- or brownish-green edible fruit that is typically narrow at the stalk and wider toward the base, with sweet, slightly gritty flesh.
+olive
+a small oval fruit with a hard pit and bitter flesh, green when unripe and brownish black when ripe, used as food and as a source of oil.
+garlic
+a strong-smelling pungent-tasting bulb, used as a flavoring in cooking and in herbal medicine.
+coconut
+the large, oval, brown seed of a tropical palm.It grows inside a woody husk, surrounded by fiber.
+blueberry
+the small, sweet edible berry of the blueberry plant.
+apple
+the round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh.
+cabbage
+a cultivated plant eaten as a vegetable, having thick green or purple leaves
+corn
+a plant that yields large grains, or kernels, set in rows on a cob.
+bean
+an edible seed, typically kidney-shaped, growing in long pods on certain leguminous plants.
+
+
+
+
+

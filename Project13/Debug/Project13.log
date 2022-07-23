@@ -1,0 +1,13 @@
+﻿  Source.cpp
+d:\projects\visual studio\the whole project\project13\source.cpp(104): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\projects\visual studio\the whole project\project13\source.cpp(113): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\projects\visual studio\the whole project\project13\source.cpp(242): warning C4018: '<': signed/unsigned mismatch
+d:\projects\visual studio\the whole project\project13\source.cpp(364): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\projects\visual studio\the whole project\project13\source.cpp(366): warning C4018: '<': signed/unsigned mismatch
+d:\projects\visual studio\the whole project\project13\source.cpp(372): warning C4018: '<': signed/unsigned mismatch
+d:\projects\visual studio\the whole project\project13\source.cpp(381): warning C4018: '<': signed/unsigned mismatch
+d:\projects\visual studio\the whole project\project13\source.cpp(395): warning C4018: '<': signed/unsigned mismatch
+d:\projects\visual studio\the whole project\project13\source.cpp(411): warning C4018: '<': signed/unsigned mismatch
+d:\projects\visual studio\the whole project\project13\source.cpp(466): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\projects\visual studio\the whole project\project13\source.cpp(475): warning C4018: '<': signed/unsigned mismatch
+  Project13.vcxproj -> D:\Projects\Visual Studio\The whole project\Debug\Project13.exe

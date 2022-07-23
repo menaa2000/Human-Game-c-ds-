@@ -1,0 +1,53 @@
+accountat
+look after the finances in organization.
+baker
+bake bread
+barber
+shave men's breads and cut men's hair.
+barman
+serve drinks.
+butcher
+prepare and sell meat.
+chambermaid
+clean and tisy rooms.
+chef
+prepare and cook food.
+dentist
+look after people's teeth.
+doctor
+look after people's health.
+fishmonger
+prepare and sell fish.
+flight attendat
+look after passengers.
+hair dresser
+cut and style people's hair
+judge
+judge and sentence people.
+nurse
+look after patients.
+optician
+look after people's eye sight.
+porter
+carry other people's bag and luggage.
+receptionist
+meet and great visitors.
+sales assistant
+sale goods and look after customers.
+secretary
+arrang appointments, type letters and organize meetings.
+surgeon
+operate on people who are sick.
+tailor
+design,make,alter or repare garments.
+teacher
+teach people.
+technician
+organize and repair technical equipmants.
+vet
+look after people's animals.
+waiter
+saerve people food and drinks.
+
+
+ 
